@@ -1,0 +1,12 @@
+<p>excelsheet works!</p>
+
+<input type="file" (change)="onfileChange($event)"multiple="false" />
+
+<table>
+
+    <tbody>
+        <tr *ngFor="let row of data">
+            {{cell}}
+        </tr>
+    </tbody>
+</table>

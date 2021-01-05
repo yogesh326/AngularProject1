@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "excelreader"
+  "defaultProject": "excelreader",
+  "cli": {
+    "analytics": "f84e470c-756b-497d-8948-3d6653d8c062"
+  }
 }
